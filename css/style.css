@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: black;
+  text-align: center;
+}
+.find-btn {
+  margin-block: 1rem;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 1rem;
+  outline: none;
+  background-color: #ff7e03;
+  font-size: 2rem;
+  color: #faf9f6;
+  cursor: pointer;
+}
+img {
+  display: block;
+  margin: auto;
+}
