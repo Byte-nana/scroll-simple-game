@@ -1,7 +1,7 @@
 'use strict';
 
 const findBtn = document.querySelector('.find-btn');
-const rabbit = document.querySelector('.rabbit');
+const rabbit = document.querySelector('#rabbit');
 const arrowUp = document.querySelector('.arrow-up');
 
 findBtn.addEventListener('click', () => {
